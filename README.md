@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SumitKr88
+- 👋 Hi, I’m @SumitKr88 (Sumit Kumar)
 - 👀 I’m interested in Mobile App development, Backend development and Devops
 - 🌱 I’m currently learning Distributed System
 - 💞️ I’m looking to collaborate on above listed interest
