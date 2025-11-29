@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SumitKr88 (Sumit Kumar)
-- 👀 I’m interested in Fullstack Developer and Engineering Leader, Mobile, Web and Backend development. 
+- 👀 I’m interested in Fullstack Development, Engineering Leadership, Mobile, Web and Backend development. 
 - 🌱 I’m currently learning Gen AI, Agentic AI and Distributed System
 - 💞️ I’m looking to collaborate on above listed interest
 - 📫 How to reach me - Mail: sumit16.kumar@gmail.com / Telegram: @SumitKumar1611
